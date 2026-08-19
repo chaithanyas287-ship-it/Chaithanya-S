@@ -2,7 +2,7 @@ import tkinter as tk
 from chatbot import get_reply
 
 window = tk.Tk()
-window.title("NOVA-chatbot")
+window.title("Chethu GPT")
 window.geometry("420x520")
 window.configure(bg="#1e1e2e")
 
