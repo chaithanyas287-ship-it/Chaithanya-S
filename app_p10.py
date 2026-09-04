@@ -16,7 +16,7 @@ st.write(
     "of items, prices, tax, discount and total."
 )
 
-api_key = ("AQ.Ab8RN6LRCfiIhOfHXazqIYPnQCZ6EV-9s1jo437IQFJrJXJc-A")
+api_key = ("")
 
 if not api_key:
     st.error("GEMINI_API_KEY is not set.")
