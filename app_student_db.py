@@ -19,7 +19,7 @@ st.set_page_config(
 # GEMINI API KEY
 # =====================================================
 
-GEMINI_API_KEY = "AQ.Ab8RN6IXI3peb1EKHUWX7r_HWfyy29JYD13KHet7uFHRfQopBg"
+GEMINI_API_KEY = ""
 
 client = genai.Client(
     api_key=GEMINI_API_KEY
