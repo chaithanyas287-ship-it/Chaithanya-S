@@ -8,7 +8,7 @@ from google import genai
 # Load API key
 load_dotenv()
 
-API_KEY = ("AQ.Ab8RN6L5RRml7a4bq-rfB7AbD2-sOGYUXv6KKLBiPJ-_aadCsw")
+API_KEY = ("")
 
 if not API_KEY:
     st.error("GEMINI_API_KEY not found.")
