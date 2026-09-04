@@ -21,7 +21,7 @@ st.set_page_config(
 # GEMINI API CONFIGURATION
 # ============================================================
 
-API_KEY = ("AQ.Ab8RN6Li5F-82QlZBNW4RXVvlxAtPjvOqeX1jGW0t2GpCBY6DA")
+API_KEY = ("")
 
 if not API_KEY:
     st.error(
